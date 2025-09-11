@@ -9,17 +9,17 @@ The Driver App streamlines ride management by enabling drivers to view booking r
 ## Screens  
 
 <p float="left">
-  <img src="IMG_3130.PNG" alt="Home Screen" width="250"/>
-  <img src="IMG_3132.PNG" alt="Booking Screen" width="250"/>
+  <img src="SSLoginScreen.PNG" width="250"/>
+  <img src="SSHomeScreen.PNG" width="250"/>
 </p>
 
 <p float="left">
-  <img src="IMG_3133.PNG" alt="Rides Screen" width="250"/>
-  <img src="IMG_3131.PNG" alt="Chat Screen" width="250"/>
+  <img src="SSBookRide.PNG" width="250"/>
+  <img src="SSRideHistory" width="250"/>
 </p>
 
 <p float="left">
-  <img src="IMG_3134.PNG" alt="Login Screen" width="250"/>
+  <img src="SSDriverChat.PNG" width="250"/>
 </p>
 
 ---
