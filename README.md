@@ -15,7 +15,7 @@ The Driver App streamlines ride management by enabling drivers to view booking r
 
 <p float="left">
   <img src="SSBookRide.PNG" width="250"/>
-  <img src="SSRideHistory" width="250"/>
+  <img src="SSRideHistory.PNG" width="250"/>
 </p>
 
 <p float="left">
