@@ -1,1 +1,8 @@
-A mobile app prototype designed in Figma and developed with Flutter to support trusted drivers in youth sports transportation. The driver app streamlines ride management by allowing drivers to view booking requests, manage active rides, and chatting with drivers.
+A mobile transportation platform for youth sports clubs that connects trusted drivers with parents and players. The Driver App streamlines ride management by enabling drivers to view booking requests, manage active rides, and communicate with families.
+
+Features
+ - View and accept ride requests
+
+ - Manage active rides with safety-first workflows
+
+ - Communication between drivers and families
