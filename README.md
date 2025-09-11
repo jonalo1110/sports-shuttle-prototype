@@ -5,7 +5,7 @@ The Driver App streamlines ride management by enabling drivers to view booking r
 
 ---
 
-## 📸 Screenshots  
+## Screenshots  
 
 <p float="left">
   <img src="IMG_3130.PNG" alt="Home Screen" width="250"/>
@@ -23,7 +23,7 @@ The Driver App streamlines ride management by enabling drivers to view booking r
 
 ---
 
-## 🚀 Features  
+## Features  
 - View and accept ride requests  
 - Manage active rides with status updates  
 - Communicate with families through messaging  
