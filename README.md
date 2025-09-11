@@ -5,7 +5,7 @@ The Driver App streamlines ride management by enabling drivers to view booking r
 
 ---
 
-## Screenshots  
+## Screens  
 
 <p float="left">
   <img src="IMG_3130.PNG" alt="Home Screen" width="250"/>
