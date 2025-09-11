@@ -1,1 +1,1 @@
-# sports-shuttle-prototype
+# A mobile app prototype designed in Figma and developed with Flutter to support trusted drivers in youth sports transportation. The driver app streamlines ride management by allowing drivers to view booking requests, manage active rides, and chatting with drivers.
