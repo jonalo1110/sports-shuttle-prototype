@@ -31,4 +31,6 @@ The Driver App streamlines ride management by enabling drivers to view booking r
 - Partnered club integration for trusted drivers  
 
 ---
-
+## Design Prototype  
+View the full Figma wireframes here:  
+https://www.figma.com/design/BDUaVwFOsSLK3G4tdGkugs/Sports?node-id=1-2&t=a85yM6oiClIxwm1X-1
