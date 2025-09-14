@@ -1,7 +1,7 @@
 # SportsShuttle – Pasenger App  
 
 A mobile transportation platform for parents to securely connect with trusted drivers from youth sports clubs, helping their kids get to practices and games safely. Designed and prototyped in **Figma** using **UI/UX principles** (minimalist layouts + accessibility-focused design).  
-The Driver App streamlines ride management by enabling drivers to view booking requests, manage active rides, and communicate with families. 
+The Passenger App streamlines ride management by enabling booking requests, ride history, and communicate with drivers. 
 
 ---
 
